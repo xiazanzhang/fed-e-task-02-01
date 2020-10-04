@@ -59,3 +59,22 @@
 
 自定义的小型脚手架工具：
 
+[自定义脚手架](https://github.com/xiazanzhang/fed-e-task-02-01/blob/master/code/sample-scaffolding/bin/cli.js)
+
+[说明文档](https://github.com/xiazanzhang/fed-e-task-02-01/blob/master/code/sample-scaffolding/README.md)
+
+
+
+##### 2：尝试使用Gulp完成项目的自动化构建
+
+[Gulp自动化构建](https://github.com/xiazanzhang/fed-e-task-02-01/blob/master/code/pages-boilerplate-gulp/gulpfile.js)
+
+[说明文档](https://github.com/xiazanzhang/fed-e-task-02-01/blob/master/code/pages-boilerplate-gulp/README2.md)
+
+
+
+##### 3：使用Grunt完成项目的自动化构建
+
+[Grunt自动化构建](https://github.com/xiazanzhang/fed-e-task-02-01/blob/master/code/grunt-sample/gruntfile.js)
+
+[说明文档](https://github.com/xiazanzhang/fed-e-task-02-01/blob/master/code/grunt-sample/README.md)
