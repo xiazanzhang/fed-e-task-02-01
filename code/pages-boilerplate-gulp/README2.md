@@ -292,7 +292,7 @@ module.exports = {
 
 
 
-## 使用指南
+## 开始使用
 
 ```cmd
 # 使用 yarn 安装依赖
