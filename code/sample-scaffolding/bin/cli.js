@@ -31,7 +31,7 @@
 
 let { program } = require('commander')
 let { version } = require('../package.json')
-let mainFn = require('..')  //在当前目录的结构下就相当于将lib下的index.js导入
+let mainFn = require('..') //在当前目录的结构下就相当于将lib下的index.js导入
 
 let actionMap = {
     create: {
