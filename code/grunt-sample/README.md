@@ -7,7 +7,7 @@
 ```
 mkdir grunt-sample
 cd grunt-sample
-yarn init --yes  //初始化package文件
+yarn init --yes
 ```
 
 ### 2：安装grunt
@@ -19,16 +19,20 @@ yarn add grunt --dev
 ### 3：安装插件
 
 ```
-//將sass转化为css文件    
-yarn add grunt-sass sass -dev
-//将ECMAScript新特性转化
+# 编译sass
+$ yarn add grunt-sass sass -dev
+
+# babel转换
 yarn add grunt-babel @babel/core @babel/preset-env --dev
-//自动载入文件
-yarn add load-grunt-tasks --dev
-//实时监视文件变化
-yarn add grunt-contrib-watch --dev
-//清除指定文件夹下的文件
-yarn add grunt-contrib-clean --dev
+
+# 自动载入文件
+$ yarn add load-grunt-tasks --dev
+
+# 实时监视文件变化
+$ yarn add grunt-contrib-watch --dev
+
+# 清除指定文件夹下的文件
+$ yarn add grunt-contrib-clean --dev
 ```
 
 ### 4：创建gruntfile.js文件
