@@ -5,7 +5,7 @@
 ### 1：安装gulp
 
 ```
-yarn add grunt --dev
+yarn add gulp --dev
 ```
 
 ### 2：安装插件
